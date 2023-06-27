@@ -1,0 +1,15 @@
+li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 2px;
+  border-radius: 3px;
+
+
+
+}
+
+.header{
+  background-color:bisque;
+    text-align: right;
+}
+
